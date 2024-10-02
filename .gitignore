@@ -1,0 +1,28 @@
+### Project Specific ###
+
+
+### Lab specific ###
+Coffee Machine Simulator with Java/Make a first cup
+Coffee Machine Simulator with Java/Calculate the ingredients
+Coffee Machine Simulator with Java/Estimate the number of servings
+Coffee Machine Simulator with Java/Add functions to your machine
+Coffee Machine Simulator with Java/Keep track of the supplies
+Coffee Machine Simulator with Java/Brush up your code
+Coffee Machine Simulator with Java/lesson-info.yaml
+/Topics
+course-info.yaml
+course-remote-info.yaml
+
+
+### IDEA ###
+.idea/
+*.iml
+
+
+### Gradle ###
+.gradle/
+*build
+*out
+
+### Maven ###
+*target
